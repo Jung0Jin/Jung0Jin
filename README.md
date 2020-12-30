@@ -20,7 +20,6 @@ to become a **key man** who solves problems of business
 
 
 
-👋
 
 <!--
 **Jung0Jin/Jung0Jin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
