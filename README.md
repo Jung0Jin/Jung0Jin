@@ -1,6 +1,6 @@
 ## :wave: I am 0Jin
 
-🌱 I’m currently learning 
+😄 I’m currently learning 
 
 > - Backend Developer
 > - Data Engineering
@@ -8,7 +8,7 @@
 
 to become a **key man** who solves problems of business
 
-## 😄Career😄
+## 🌱Career🌱
 
 |    **Type**    |     **Date**    |                    **Contents**                   |**Organization**|
 |:--------------:|:---------------:|:-------------------------------------------------:|:--------------:|
