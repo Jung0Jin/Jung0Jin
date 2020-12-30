@@ -1,4 +1,26 @@
-### Hi there 👋
+## :wave: I am 0Jin
+
+🌱 I’m currently learning 
+
+> - Backend Developer
+> - Data Engineering
+> - Machine Learning
+
+to become a **key man** who solves problems of business
+
+## 😄Career😄
+
+|    **Type**    |     **Date**    |                    **Contents**                   |**Organization**|
+|:--------------:|:---------------:|:-------------------------------------------------:|:--------------:|
+| :mortar_board:**Education**  | 2014.03-2021.02 | Bachelor of Science in Industrial Engineering     |  **INHA Univ**     |
+| :mortar_board:**Education**  | 2021.03-? | Integrated PhD program in Industrial Engineering       |  **INHA Univ**     |
+| :page_facing_up:**Research**   | 2020.06-2021.06 | Musculoskeletal Posture Analysis Evaluation |  **KIA MOTORS**          |
+| :office:**Internship** | 2019.07-2021.02 | Undergraduate Research Student(TACTICS Lab.) |  **INHA Univ**         |
+
+
+
+
+👋
 
 <!--
 **Jung0Jin/Jung0Jin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
