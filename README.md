@@ -26,6 +26,10 @@ to become a **key man** who solves problems of business
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=qjsmdk1346)](https://solved.ac/qjsmdk1346)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qjsmdk1346)](https://solved.ac/qjsmdk1346)
+
+
 
 <!--
 **Jung0Jin/Jung0Jin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
