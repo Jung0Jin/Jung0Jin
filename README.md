@@ -24,8 +24,6 @@ to become a **key man** who solves problems of business
 
 ![0Jin's github stats](https://github-readme-stats.vercel.app/api?username=Jung0Jin&show_icons=true)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=qjsmdk1346)](https://solved.ac/qjsmdk1346)
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qjsmdk1346)](https://solved.ac/qjsmdk1346)
 
