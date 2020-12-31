@@ -22,7 +22,7 @@ to become a **key man** who solves problems of business
 | ⚡**Project**   | 2020.12-2021.12 | Assistant, Biometric Recognition through Gait Motion |  **I-GPS In INHA Univ**          |
 | :office:**Internship** | 2019.07-2021.02 | Undergraduate Research Student(TACTICS Lab.) |  **INHA Univ**         |
 
-![Jung0Jin's github stats](https://github-readme-stats.vercel.app/api?username=Jung0Jin&show_icons=true)
+![0Jin's github stats](https://github-readme-stats.vercel.app/api?username=0Jin&show_icons=true)
 
 
 
