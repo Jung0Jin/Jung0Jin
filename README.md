@@ -22,7 +22,6 @@ to become a **key man** who solves problems of business
 | ⚡**Project**   | 2020.12-2021.12 | Assistant, Biometric Recognition through Gait Motion |  **I-GPS In INHA Univ**          |
 | :office:**Internship** | 2019.07-2021.02 | Undergraduate Research Student(TACTICS Lab.) |  **INHA Univ**         |
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJung0Jin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
