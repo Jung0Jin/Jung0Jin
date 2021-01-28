@@ -18,8 +18,9 @@ to become a **key man** who solves problems of business
 | 🔭**Competition**   | 2020.06-2020.08 | The 6th Startup Analysis Contest Using Public Data |  **INCHEON Metropolitan City**          |
 | 🔭**Competition**   | 2020.08-2020.12 | The 2nd Big Data, Artificial Intelligence Startyp Contest |  **KOREA GAS Corporation**          |
 | ⚡**Project**   | 2019.12-2020.12 | Team member, Smart Route Recommendation Algorithm Using Shared Mobility |  **I-GPS In INHA Univ**          |
-| ⚡**Project**   | 2020.12-2021.12 | Team Leader, Development of Operation and Management Service Technology to Increase The Available Elevator Time |  **I-GPS In INHA Univ**          |
+| ⚡**Project**   | 2020.12-2021.12 | Assistant, Smart Route Recommendation Algorithm Using Shared Mobility |  **I-GPS In INHA Univ**          |
 | ⚡**Project**   | 2020.12-2021.12 | Assistant, Biometric Recognition through Gait Motion |  **I-GPS In INHA Univ**          |
+| ⚡**Project**   | 2020.12-2021.12 | Team Leader, Development of Operation and Management Service Technology to Increase The Available Elevator Time |  **I-GPS In INHA Univ**          |
 | :office:**Internship** | 2019.07-2021.02 | Undergraduate Research Student(TACTICS Lab.) |  **INHA Univ**         |
 
 ![0Jin's github stats](https://github-readme-stats.vercel.app/api?username=Jung0Jin&show_icons=true)
