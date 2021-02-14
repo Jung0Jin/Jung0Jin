@@ -2,8 +2,6 @@
 
 😄 I’m currently learning 
 
-> - Backend Developer
-> - Data Engineering
 > - Machine Learning
 
 to become a **key man** who solves problems of business
