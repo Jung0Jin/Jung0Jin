@@ -2,7 +2,7 @@
 
 😄 I’m currently learning  
 
-> - Machine Learning
+> - Machine Learning 
 
 to become a **key man** who solves problems of business
 
