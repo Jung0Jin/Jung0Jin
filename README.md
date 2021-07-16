@@ -10,14 +10,13 @@ to become a **key man** who solves problems of business
 
 |    **Type**    |     **Date**    |                    **Contents**                   |**Organization**|
 |:--------------:|:---------------:|:-------------------------------------------------:|:--------------:|
-| :mortar_board:**Education**  | 2014.03-2021.02 | Bachelor's course in Industrial Engineering     |  **INHA Univ**     |
+| :office:**Work Experience** | 2019.09-Current | Teaching Assistant |  **INHA Univ**         |
+| :office:**Work Experience** | 2017.10-2018.10 | Staff Sergeant |  **Republic of Korea Marine Corps**         |
+| ⚡**Project**   | 2021.01-Current | Team Leader, Development of Operation and Management Service Technology to Increase The Available Elevator Service Time |  **HYUNDAI ELEVATOR**          |
+| ⚡**Project**   | 2020.06-2021.06 | Team Member, Investigation of Harmful Factors for Musculoskeletal System |  **KIA MOTORS**          |
+| ⚡**Project**   | 2020.01-2020.12 | Team Member, Development of Smart Route Recommendation Algorithm Using Shared Mobility |  **National Research Foundation of Korea**          |
 | :mortar_board:**Education**  | 2021.03-Current | PhD's course in Industrial Engineering       |  **INHA Univ**     |
-| :page_facing_up:**Research**   | 2020.06-2021.06 | Investigation of Harmful Factors for Musculoskeletal System |  **KIA MOTORS**          |
-| 🔭**Competition**   | 2020.06-2020.08 | The 6th Startup Analysis Contest Using Public Data |  **INCHEON Metropolitan City**          |
-| 🔭**Competition**   | 2020.08-2020.12 | The 2nd Big Data, Artificial Intelligence Startyp Contest |  **KOREA GAS Corporation**          |
-| ⚡**Project**   | 2019.12-2020.12 | Team member, Smart Route Recommendation Algorithm Using Shared Mobility |  **I-GPS In INHA Univ**          |
-| ⚡**Project**   | 2020.12-2021.12 | Team Leader, Development of Operation and Management Service Technology to Increase The Available Elevator Time |  **I-GPS In INHA Univ**          |
-| :office:**Internship** | 2019.07-2021.02 | Undergraduate Research Student(TACTICS Lab.) |  **INHA Univ**         |
+| :mortar_board:**Education**  | 2014.03-2021.02 | Bachelor's course in Industrial Engineering     |  **INHA Univ**     |
 
 ![0Jin's github stats](https://github-readme-stats.vercel.app/api?username=Jung0Jin&show_icons=true)
 
