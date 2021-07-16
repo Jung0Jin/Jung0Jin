@@ -10,8 +10,8 @@ to become a **key man** who solves problems of business
 
 |    **Type**    |     **Date**    |                    **Contents**                   |**Organization**|
 |:--------------:|:---------------:|:-------------------------------------------------:|:--------------:|
-| :mortar_board:**Education**  | 2014.03-2021.02 | Bachelor of Science in Industrial Engineering     |  **INHA Univ**     |
-| :mortar_board:**Education**  | 2021.03-? | Integrated PhD program in Industrial Engineering       |  **INHA Univ**     |
+| :mortar_board:**Education**  | 2014.03-2021.02 | Bachelor's course in Industrial Engineering     |  **INHA Univ**     |
+| :mortar_board:**Education**  | 2021.03-? | PhD's course in Industrial Engineering       |  **INHA Univ**     |
 | :page_facing_up:**Research**   | 2020.06-2021.06 | Musculoskeletal Posture Analysis Evaluation |  **KIA MOTORS**          |
 | 🔭**Competition**   | 2020.06-2020.08 | The 6th Startup Analysis Contest Using Public Data |  **INCHEON Metropolitan City**          |
 | 🔭**Competition**   | 2020.08-2020.12 | The 2nd Big Data, Artificial Intelligence Startyp Contest |  **KOREA GAS Corporation**          |
