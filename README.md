@@ -17,8 +17,13 @@ I’m currently learning "Machine Learning" to become a **key man** who solves p
 | 👯**Competition**   | 2020.06-2020.08 | Team Member, The 6th Public Data Utilization Startup Analysis Contest  |  **Incheon Metropolitan City**          |
 | 👯**Competition**   | 2020.08-2020.12 | Team Member, The 2nd Big Data Artificial Intelligence Startup Contest  |  **Korea Gas Corporation**          |
 | 👯**Competition**   | 2021.10-2021.11 | Team Leader, The 1st Civil Complant Data Analysis Contest  |  **Anti-Corruption & Civil Rights Commission**          |
-| 😄**Prize**   | Grand prize, 2020 I-GPS in Inha University |
-
+| 😄**Prize**   | 2020 | Grand prize | **2020 I-GPS in Inha University** |
+| 😄**Prize**   | 2020 | Silver prize | **2020 X-Corps Festival** |
+| 😄**Prize**   | 2021 | Grand prize | **2021 Spring Conference Korea Society of Quality Management** |
+| 😄**Prize**   | 2021 | Top prize | **2021 I-GPS Middle Presentation in Inha University** |
+| 😄**Prize**   | 2021 | Distinguished Paper prize | **2021 Autumn Conference Korea Society of Quality Management** |
+| 😄**Prize**   | 2021 | Top prize | **2021 I-GPS in Inha University** |
+| 😄**Prize**   | 2021 | Encouragement prize | **2021 X-Corps Festival** |
 
 
 ![0Jin's github stats](https://github-readme-stats.vercel.app/api?username=Jung0Jin&show_icons=true)
