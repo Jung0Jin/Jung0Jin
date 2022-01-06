@@ -24,10 +24,6 @@ I’m currently learning "Machine Learning" to become a **key man** who solves p
 | 😄**Prize**   | 2021 | Distinguished Paper prize | **2021 Autumn Conference Korea Society of Quality Management** |
 | 😄**Prize**   | 2021 | Top prize | **2021 I-GPS in Inha University** |
 | 😄**Prize**   | 2021 | Encouragement prize | **2021 X-Corps Festival** |
-|**Contact**   | qjsmdk1346@naver.com |  |  |
-|**Link**   | http://tactics.inha.ac.kr/﻿ |  |  |
-|**Link**   | https://www.instagram.com/0deanz/?hl=ko |  |  |
-|**Link**   | https://velog.io/@qjsmdk1346 |  |  |
 
 
 
