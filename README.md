@@ -14,6 +14,12 @@ I’m currently learning "Machine Learning" to become a **key man** who solves p
 | ⚡**Project**   | 2020.01-2020.12 | Team Member, Development of Smart Route Recommendation Algorithm Using Shared Mobility |  **National Research Foundation of Korea**          |
 | ⚡**Project**   | 2020.06-2021.06 | Team Member, Investigation of Harmful Factors for Musculoskeletal System |  **KIA MOTORS**          |
 | ⚡**Project**   | 2021.01-Current | Team Leader, Development of Operation and Management Service Technology to Increase The Available Elevator Service Time |  **HYUNDAI ELEVATOR**          |
+| 👯**Competition**   | 2020.06-2020.08 | Team Member, The 6th Public Data Utilization Startup Analysis Contest  |  **Incheon Metropolitan City**          |
+| 👯**Competition**   | 2020.08-2020.12 | Team Member, The 2nd Big Data Artificial Intelligence Startup Contest  |  **Korea Gas Corporation**          |
+| 👯**Competition**   | 2021.10-2021.11 | Team Leader, The 1st Civil Complant Data Analysis Contest  |  **Anti-Corruption & Civil Rights Commission**          |
+| 😄**Prize**   | Grand prize, 2020 I-GPS in Inha University |
+
+
 
 ![0Jin's github stats](https://github-readme-stats.vercel.app/api?username=Jung0Jin&show_icons=true)
 
