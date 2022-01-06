@@ -7,6 +7,7 @@ I’m currently learning "Machine Learning" to become a **key man** who solves p
 |    **Type**    |     **Date**    |                    **Contents**                   |**Organization**|
 |:--------------:|:---------------:|:-------------------------------------------------:|:--------------:|
 | :office:**Work Experience** | 2019.09-Current | Teaching Assistant |  **INHA Univ**         |
+| :office:**Work Experience** | 2019.06-2021.02 | Undergraduate Research Student |  **TACTICS Lab**         |
 | :office:**Work Experience** | 2017.10-2018.10 | Staff Sergeant |  **Republic of Korea Marine Corps**         |
 | ⚡**Project**   | 2021.01-Current | Team Leader, Development of Operation and Management Service Technology to Increase The Available Elevator Service Time |  **HYUNDAI ELEVATOR**          |
 | ⚡**Project**   | 2020.06-2021.06 | Team Member, Investigation of Harmful Factors for Musculoskeletal System |  **KIA MOTORS**          |
