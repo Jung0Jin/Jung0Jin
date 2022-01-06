@@ -6,14 +6,14 @@ I’m currently learning "Machine Learning" to become a **key man** who solves p
 
 |    **Type**    |     **Date**    |                    **Contents**                   |**Organization**|
 |:--------------:|:---------------:|:-------------------------------------------------:|:--------------:|
-| :mortar_board:**Education**  | 2021.03-Current | PhD's course in Industrial Engineering       |  **INHA Univ**     |
 | :mortar_board:**Education**  | 2014.03-2021.02 | Bachelor's course in Industrial Engineering     |  **INHA Univ**     |
-| :office:**Work Experience** | 2019.09-Current | Teaching Assistant |  **INHA Univ**         |
-| :office:**Work Experience** | 2019.06-2021.02 | Undergraduate Research Student |  **TACTICS Lab**         |
+| :mortar_board:**Education**  | 2021.03-Current | PhD's course in Industrial Engineering       |  **INHA Univ**     |
 | :office:**Work Experience** | 2017.10-2018.10 | Staff Sergeant |  **Republic of Korea Marine Corps**         |
-| ⚡**Project**   | 2021.01-Current | Team Leader, Development of Operation and Management Service Technology to Increase The Available Elevator Service Time |  **HYUNDAI ELEVATOR**          |
-| ⚡**Project**   | 2020.06-2021.06 | Team Member, Investigation of Harmful Factors for Musculoskeletal System |  **KIA MOTORS**          |
+| :office:**Work Experience** | 2019.06-2021.02 | Undergraduate Research Student |  **TACTICS Lab**         |
+| :office:**Work Experience** | 2019.09-Current | Teaching Assistant |  **INHA Univ**         |
 | ⚡**Project**   | 2020.01-2020.12 | Team Member, Development of Smart Route Recommendation Algorithm Using Shared Mobility |  **National Research Foundation of Korea**          |
+| ⚡**Project**   | 2020.06-2021.06 | Team Member, Investigation of Harmful Factors for Musculoskeletal System |  **KIA MOTORS**          |
+| ⚡**Project**   | 2021.01-Current | Team Leader, Development of Operation and Management Service Technology to Increase The Available Elevator Service Time |  **HYUNDAI ELEVATOR**          |
 
 ![0Jin's github stats](https://github-readme-stats.vercel.app/api?username=Jung0Jin&show_icons=true)
 
