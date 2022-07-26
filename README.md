@@ -1,4 +1,4 @@
-## 정영진(YoungjinJung)
+# 정영진(YoungjinJung)
 
 안녕하세요. 데이터 분석을 통한 품질 및 신뢰성 향상을 연구하고 있습니다.
 
@@ -8,7 +8,7 @@
 - 인공지능(Artificial Intelligence)
 - 데이터 사이언스(Data Science)
 
-## Contact
+# Contact
 
 이메일: qjsmdk1346@naver.com
 
