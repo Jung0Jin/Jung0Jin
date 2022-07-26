@@ -12,8 +12,6 @@
 
 연락처: 010-4816-5687
 
-페이스북: https://www.facebook.com/profile.php?id=100004838164908
-
 인스타그램: https://www.instagram.com/0deanz/
 
 링크드인: https://www.linkedin.com/in/youngjin-jung-76797a209/
