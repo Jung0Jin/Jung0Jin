@@ -8,17 +8,21 @@
 - 인공지능(Artificial Intelligence)
 - 데이터 사이언스(Data Science)
 
+## Contact
+
 이메일: qjsmdk1346@naver.com
 
 연락처: 010-4816-5687
 
 인스타그램: https://www.instagram.com/0deanz/
 
-링크드인: https://www.linkedin.com/in/youngjin-jung-76797a209/
-
 벨로그: https://velog.io/@qjsmdk1346
 
 연구실 홈페이지: http://tactics.inha.ac.kr/
+
+이력서: https://career.programmers.co.kr/pr/qjsmdk1346_3951
+
+링크드인: https://www.linkedin.com/in/youngjin-jung-76797a209/
 
 ![0Jin's github stats](https://github-readme-stats.vercel.app/api?username=Jung0Jin&show_icons=true)
 
