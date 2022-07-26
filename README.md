@@ -18,7 +18,7 @@
 
 벨로그: https://velog.io/@qjsmdk1346
 
-연구실 홈페이지: http://tactics.inha.ac.kr/﻿
+연구실 홈페이지: http://tactics.inha.ac.kr/
 
 ![0Jin's github stats](https://github-readme-stats.vercel.app/api?username=Jung0Jin&show_icons=true)
 
