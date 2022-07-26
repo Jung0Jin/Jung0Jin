@@ -1,11 +1,23 @@
-## :wave: I am Jung0Jin [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJung0Jin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## :wave: 정영진(YoungjinJung) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJung0Jin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-I’m currently learning "Machine Learning" to become a **key man** who solves problems of business
+이메일: qjsmdk1346@naver.com
+
+연락처: 010-4816-5687
+
+안녕하세요. 데이터 분석을 통한 품질 및 신뢰성 향상을 연구하고 있습니다.
+
+연구 분야(Research Interests)
+- 품질경영(Quaility Management)
+- 신뢰성공학(Reliability Engineering)
+- 인공지능(Artificial Intelligence)
+- 데이터 사이언스(Data Science)
 
 ## Career
 
 |    **Type**    |     **Date**    |                    **Contents**                   |**Organization**|
 |:--------------:|:---------------:|:-------------------------------------------------:|:--------------:|
+| **경력(Work Experience)** | 2021.03- | 데이터 사이언티스트(Data Scientist), TACTICS Lab. 대학원생으로 연구 참여, 기업 프로젝트 리딩 및 연구 설계, 실험, 논문 작성 |  **TACTICS Lab.**         |
+|  | 2022.07-2022.07 | Competition 2022 인하 인공지능 챌린지 |  **인하대학교 인공지능융합연구센터**         |
 | :mortar_board:**Education**  | 2014.03-2021.02 | Bachelor's course in Industrial Engineering     |  **INHA Univ**     |
 | :mortar_board:**Education**  | 2021.03-Current | PhD's course in Industrial Engineering       |  **INHA Univ**     |
 | :office:**Work Experience** | 2017.10-2018.10 | Staff Sergeant |  **Republic of Korea Marine Corps**         |
