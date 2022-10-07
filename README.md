@@ -1,12 +1,6 @@
 # 정영진(YoungjinJung)
 
-안녕하세요. 데이터 분석을 통한 품질 및 신뢰성 향상을 연구하고 있습니다.
-
-연구 분야(Research Interests)
-- 품질경영(Quaility Management)
-- 신뢰성공학(Reliability Engineering)
-- 인공지능(Artificial Intelligence)
-- 데이터 사이언스(Data Science)
+안녕하세요. 데이터 사이언스(Data Science) 분야에서 열심히 일하고 싶습니다.
 
 # Contact
 
