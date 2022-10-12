@@ -8,10 +8,6 @@
 
 연락처: 010-4816-5687
 
-인스타그램: https://www.instagram.com/0deanz/
-
-벨로그: https://velog.io/@qjsmdk1346
-
 연구실 홈페이지: http://tactics.inha.ac.kr/
 
 이력서: https://career.programmers.co.kr/pr/qjsmdk1346_3951
