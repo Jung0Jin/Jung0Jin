@@ -12,8 +12,6 @@
 
 이력서: https://career.programmers.co.kr/pr/qjsmdk1346_3951
 
-링크드인: https://www.linkedin.com/in/youngjin-jung-76797a209/
-
 ![0Jin's github stats](https://github-readme-stats.vercel.app/api?username=Jung0Jin&show_icons=true)
 
 [![Solved.ac
