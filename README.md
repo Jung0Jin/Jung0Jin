@@ -8,10 +8,6 @@
 
 연락처: 010-4816-5687
 
-연구실 홈페이지: http://tactics.inha.ac.kr/
-
-이력서: https://career.programmers.co.kr/pr/qjsmdk1346_3951
-
 ![0Jin's github stats](https://github-readme-stats.vercel.app/api?username=Jung0Jin&show_icons=true)
 
 [![Solved.ac
