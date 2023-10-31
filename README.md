@@ -4,10 +4,6 @@
 
 # Contact
 
-이메일: qjsmdk1346@naver.com
-
-연락처: 010-4816-5687
-
 ![0Jin's github stats](https://github-readme-stats.vercel.app/api?username=Jung0Jin&show_icons=true)
 
 [![Solved.ac
